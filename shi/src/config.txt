@@ -1,0 +1,11 @@
+# GPU & kernel
+CUDA_DEVICE_ID = 6
+NUM_STREAMS    = 16
+BATCH          = 16
+BLOCK_SIZE_X   = 64
+BLOCK_SIZE_Y   = 4
+
+# Sunshine params
+DAY_OF_YEAR    = 15
+TIME_STEP      = 5
+PADDING_DEGREE = 1

@@ -1,0 +1,3 @@
+/home/ftx/yuanshen/shi/build/CMakeFiles/sunshine_hours.dir
+/home/ftx/yuanshen/shi/build/CMakeFiles/edit_cache.dir
+/home/ftx/yuanshen/shi/build/CMakeFiles/rebuild_cache.dir
